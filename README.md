@@ -1,18 +1,18 @@
-# Forecast de Ventas Usando SARIMA & Prophet
+# 📈 Forecast de Ventas Usando SARIMA & Prophet
 
-## Introducción
+## 📌 Introducción
 
 Este repositorio contiene el proyecto de forecast de ventas para las tiendas @WM USA. El objetivo del proyecto es predecir las ventas para las próximas 28 semanas utilizando los modelos SARIMA (Seasonal AutoRegressive Integrated Moving Average) & Prophet.
 
-## Descripción del Dataset
+## 📌 Descripción del Dataset
 
 El dataset utilizado en este proyecto incluye un total de 421,570 registros de venta correspondientes a un período de 143 semanas. Los datos comprenden las ventas totales de varias tiendas de @WM USA. Cada registro incluye información relevante sobre las ventas semanales, lo que permite analizar y modelar las tendencias y patrones estacionales de las ventas.
 
-## Objetivo
+## 📌 Objetivo
 
 El objetivo principal de este proyecto es generar un forecast de ventas para las siguientes 28 semanas. Este forecast es crucial para la planificación y toma de decisiones estratégicas en las tiendas @WM USA, permitiendo optimizar el inventario, la logística y las estrategias de marketing.
 
-## Metodología
+## 📌 Metodología
 
 Para lograr el forecast de ventas, se ha utilizado el modelo SARIMA, que es una extensión del modelo ARIMA capaz de manejar componentes estacionales en los datos de series temporales. El proceso incluye los siguientes pasos:
 
@@ -25,7 +25,7 @@ Para lograr el forecast de ventas, se ha utilizado el modelo SARIMA, que es una 
 
 Un enfoque similar se usa para el modelaje de Prophet, sin embargo se obtuvieron mejores resultados con SARIMA.
 
-## Resultados
+## 📌 Resultados
 
 Los resultados del modelo SARIMA están en el archivo FCST_SARIMA.xlsx
 ---
