@@ -2,7 +2,7 @@
 
 ## 📌 Introducción
 
-Este repositorio contiene el proyecto de forecast de ventas para las tiendas @WM USA. El objetivo del proyecto es predecir las ventas para las próximas 28 semanas utilizando los modelos SARIMA (Seasonal AutoRegressive Integrated Moving Average) & Prophet.
+Este repositorio contiene el proyecto de forecast de ventas para las tiendas @WM USA. El objetivo del proyecto es predecir las ventas para las próximas 20 semanas utilizando los modelos SARIMA (Seasonal AutoRegressive Integrated Moving Average) & Prophet.
 
 ## 📌 Descripción del Dataset
 
