@@ -25,20 +25,7 @@ Para lograr el forecast de ventas, se ha utilizado el modelo SARIMA, que es una 
 
 ## Resultados
 
-Los resultados del modelo SARIMA serán documentados en este repositorio, incluyendo las predicciones y las métricas de desempeño utilizadas para evaluar la precisión del forecast.
-
-## Uso del Código
-
-Para reproducir los resultados o adaptar el modelo a nuevos datos, sigue los pasos detallados en los scripts de este repositorio. Asegúrate de tener instaladas las dependencias necesarias, como se indica en el archivo `requirements.txt`.
-
-## Contribuciones
-
-Las contribuciones a este proyecto son bienvenidas. Si tienes sugerencias de mejora o encuentras algún problema, por favor abre un issue o envía un pull request.
-
-## Contacto
-
-Para cualquier consulta o comentario sobre este proyecto, puedes contactar con el equipo a través de [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com).
-
+Los resultados del modelo SARIMA están en el archivo FCST_SARIMA.xlsx
 ---
 
-**Nota:** Este proyecto es un ejercicio de análisis de series temporales y forecast de ventas. Los datos utilizados son ficticios y cualquier similitud con datos reales es pura coincidencia.
+Data Source: https://www.kaggle.com/datasets/divyajeetthakur/walmart-sales-prediction
