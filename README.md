@@ -28,6 +28,7 @@ Un enfoque similar se usa para el modelaje de Prophet, sin embargo se obtuvieron
 ## 📌 Resultados
 
 Los resultados del modelo SARIMA están en el archivo FCST_SARIMA.xlsx
+El cómo hice el Forecast está en el file: '- Walmart Sales Forecast.ipynb'
 ---
 
 Data Source: https://www.kaggle.com/datasets/divyajeetthakur/walmart-sales-prediction
